@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    background: #191919
+  }
+
+/* end */
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 13px 30px;
+    border: 3px solid transparent;
+    transition: 0.6s ease;
+
+}
+
+.title{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1{
+    color: #471a85;
+    font-size: 34px;
+    font-family: Arial;
+}
+
+.title2{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title2 h1{
+    color: #6927c5;
+    font-size: 34px;
+    font-family: Arial;
+}
